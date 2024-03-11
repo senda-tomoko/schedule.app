@@ -1,0 +1,33 @@
+h1 {
+  text-align: center; 
+  color: white;       
+  background-color: black; 
+}
+
+table th {
+  background-color: #5bdefb;
+  padding: 10px 20px;
+}
+
+table td {
+  background-color: #f9ecd5;
+  padding: 10px 20px;
+}
+
+.btn-primary {
+    background-color: blue; /* ボタンの背景色 */
+    color: white; /* テキストの色 */
+    border: none; /* 枠線を消す */
+    padding: 10px 20px; /* 内側の余白 */
+    text-align: center; /* テキストを中央揃え */
+    text-decoration: none; /* テキストの下線を消す */
+    display: inline-block; /* インラインブロック要素として表示 */
+    font-size: 16px; /* フォントサイズ */
+    margin: 4px 2px; /* 外側の余白 */
+    cursor: pointer; /* カーソルをポインターに */
+    border-radius: 0; /* 角の丸みをなくす */
+  }
+  
+  
+  
+ 
